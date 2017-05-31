@@ -3,4 +3,3 @@ Esta es la clase B version 0.1
 	Apellidos
 	Edad
 	DNI
-	asfafgafashbashbhasfsad
